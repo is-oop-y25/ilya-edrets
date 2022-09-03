@@ -5,14 +5,26 @@ namespace Isu.Test;
 public class IsuService
 {
     [Fact]
-    public void AddStudentToGroup_StudentHasGroupAndGroupContainsStudent() { }
+    public void AddStudentToGroup_StudentHasGroupAndGroupContainsStudent()
+    {
+
+    }
 
     [Fact]
-    public void ReachMaxStudentPerGroup_ThrowException() { }
+    public void ReachMaxStudentPerGroup_ThrowException()
+    {
+
+    }
 
     [Fact]
-    public void CreateGroupWithInvalidName_ThrowException() { }
+    public void CreateGroupWithInvalidName_ThrowException()
+    {
+
+    }
 
     [Fact]
-    public void TransferStudentToAnotherGroup_GroupChanged() { }
+    public void TransferStudentToAnotherGroup_GroupChanged()
+    {
+
+    }
 }
