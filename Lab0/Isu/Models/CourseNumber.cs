@@ -1,3 +1,9 @@
 namespace Isu.Models;
 
-public class CourseNumber { }
+public enum CourseNumber : byte
+{
+    First = 1,
+    Second,
+    Third,
+    Fourth,
+}
